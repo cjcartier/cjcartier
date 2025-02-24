@@ -5,7 +5,8 @@
 ## I make code stuff with code.
 
 I am a seasoned Sr. Frontend Developer learned from the
-_School of Reading 1000 Articles and Arbitrary Testing (unaccredited)_.
+
+**School of Reading 1000 Articles and Arbitrary Testing (unaccredited)**.
 
 </div>
 
