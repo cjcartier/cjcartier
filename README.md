@@ -6,7 +6,7 @@
 
 </div>
 
-I am a seasoned Sr. Frontend Developer learned from the "School of Reading 1000 Articles and Arbitrary Testing (unaccredited)""
+I am a seasoned Sr. Frontend Developer learned from the "School of Reading 1000 Articles and Arbitrary Testing (unaccredited)"
 
 <!--
 **cjcartier/cjcartier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
