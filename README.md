@@ -4,9 +4,10 @@
 
 ## I make code stuff with code.
 
-</div>
+I am a seasoned Sr. Frontend Developer learned from the
+_School of Reading 1000 Articles and Arbitrary Testing (unaccredited)_.
 
-I am a seasoned Sr. Frontend Developer learned from the "School of Reading 1000 Articles and Arbitrary Testing (unaccredited)"
+</div>
 
 <!--
 **cjcartier/cjcartier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
